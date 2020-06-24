@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {A => ['Apples','Apricots'], B => ['Bananas'], C => ['Clementines']}
+  my_hash = {A => ['Apples','Apricots'], B => ['Bananas'], C => ['Clementines']}
 
   
 end
